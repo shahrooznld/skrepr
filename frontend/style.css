@@ -1,0 +1,18 @@
+.flex-container {
+    display: flex;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.thumbnail-gallery-container {
+    padding-right: 5px;
+}
+
+.selected-photo {
+    padding-top: 10px;
+}
+
+.button {
+    padding: 10px;
+    color: gray;
+    width: 100px;
+}
